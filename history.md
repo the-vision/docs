@@ -4,6 +4,6 @@ The first version of J.A.R.V.I.S. was released on the Messenger platform. It gai
 
 GitHub: [https://github.com/swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 
-Messenger: [https://m.me/J.A.R.V.I.S.on.Messenger](https://m.me/J.A.R.V.I.S.on.Messenger)
+Feel free to try it yourself here: [https://m.me/J.A.R.V.I.S.on.Messenger](https://m.me/J.A.R.V.I.S.on.Messenger)
 
 Demo: [https://vimeo.com/226022581](https://vimeo.com/226022581)

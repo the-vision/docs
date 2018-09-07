@@ -8,6 +8,8 @@ module.exports = {
             ['/history.md', 'History'],
             ['/tenets.md', 'Tenets'],
             ['/design.md', 'Design'],
+            ['/stack.md', 'Stack'],
+            ['/tasks.md', 'Tasks'],
             ['/contributing.md', 'Contributing'],
         ],
         lastUpdated: 'Last Updated',
