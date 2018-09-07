@@ -1,9 +1,9 @@
 # Tenets
 
 * It should be easy for newcomers to contribute to.
- * Code should be simple to read and understand (Explicit is better than implicit).
- * 1-click development environment setup using Docker
- * Use prettier (no more tabs vs spaces debate)
+  * Code should be simple to read and understand (Explicit is better than implicit).
+  * 1-click development environment setup using Docker
+  * Use prettier (no more tabs vs spaces debate)
 * It shall be community-owned.
   * Newcomers shall rise in ranks depending on their contributions.
   * Label issues that will be worked on by newcomers only. Similarly for developers and maintainers.
