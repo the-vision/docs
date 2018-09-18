@@ -7,6 +7,7 @@
 * It shall be community-owned.
   * Newcomers shall rise in ranks depending on their contributions.
   * Label issues that will be worked on by newcomers only. Similarly for developers and maintainers.
+* Design first; code later.
 * Iterate based on data (analytics).
   * Add features based on community requests.
   * Have an easy way for users to provide feedback.
