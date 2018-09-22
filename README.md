@@ -1,6 +1,6 @@
 # Meet The Vision
 
-Vision is the evolution of Jarvis. It aims to write generic modules which can be exposed as standalone APIs as well as plugged into various platforms like Messenger, Slack, Discord, Telegram, Skype, etc.
+Vision is the evolution of [Jarvis](history.md). It aims to write generic modules which can be exposed as standalone APIs as well as plugged into various platforms like Messenger, Slack, Discord, Telegram, Skype, etc.
 
 For a quick overview of how AI is used in this project, see [https://vimeo.com/238717639](https://vimeo.com/238717639)
 
