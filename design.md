@@ -5,6 +5,7 @@
 * jarvis-discord
 * [jarvis-slack](https://github.com/the-vision/jarvis-slack)
 * jarvis-telegram
+* [module-motivation](https://github.com/the-vision/module-motivation)
 * [docker](https://github.com/the-vision/docker)
 * [feedback](https://github.com/the-vision/feedback)
 * [docs](https://github.com/the-vision/docs)
