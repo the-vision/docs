@@ -11,6 +11,7 @@ module.exports = {
             ['/stack.md', 'Stack'],
             ['/tasks.md', 'Tasks'],
             ['/contributing.md', 'Contributing'],
+            ['/donate.md', 'Donate'],
         ],
         lastUpdated: 'Last Updated',
         repo: 'the-vision/docs',
