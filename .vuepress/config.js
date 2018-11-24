@@ -7,8 +7,14 @@ module.exports = {
             ['/', 'Introduction'],
             ['/history.md', 'History'],
             ['/tenets.md', 'Tenets'],
-            ['/design.md', 'Design'],
-            ['/stack.md', 'Stack'],
+            {
+                title: 'Design',
+                collapsable: true,
+                children: [
+                    ['/structure.md', 'Package Structure'],
+                    ['/stack.md', 'Tech Stack'],
+                ]
+            },
             ['/tasks.md', 'Tasks'],
             ['/contributing.md', 'Contributing'],
             ['/donate.md', 'Donate'],
