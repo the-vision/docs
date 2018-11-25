@@ -9,7 +9,7 @@ module.exports = {
             ['/tenets.md', 'Tenets'],
             {
                 title: 'Design',
-                collapsable: true,
+                collapsable: false,
                 children: [
                     ['/structure.md', 'Package Structure'],
                     ['/stack.md', 'Tech Stack'],
