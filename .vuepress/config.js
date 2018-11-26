@@ -4,7 +4,7 @@ module.exports = {
     ga: 'UA-112400267-2',
     themeConfig: {
         nav: [
-            { text: 'Discord', link: 'https://discord.gg/MsZ9N9n' },
+            { text: 'Community', link: 'https://discord.gg/MsZ9N9n' },
         ],
         sidebar: [
             ['/', 'Introduction'],
