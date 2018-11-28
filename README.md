@@ -13,4 +13,9 @@ J.A.R.V.I.S. is a community-driven python bot that aims to be as simple as possi
 I created JARVIS with two goals in mind:
 
 1. It should have a lot of useful features \(both fun and commonly used\).
-2. Anyone can contribute to this project. \(As this is module-based, anybody with a decent knowledge of Python can contribute.\) One of the prime goals of this project is to lower the entry barrier into the world of open source.
+1. Anyone can contribute to this project. \(As this is module-based, anybody with a decent knowledge of Python can contribute.\) One of the prime goals of this project is to lower the entry barrier into the world of open source.
+
+# Vision's Vision (see what I did there?)
+
+1. Get 100 people started with open-source in 2019!
+1. Build a community to scale this.
