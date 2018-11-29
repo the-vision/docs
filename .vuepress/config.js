@@ -18,7 +18,14 @@ module.exports = {
                     ['/stack.md', 'Tech Stack'],
                 ]
             },
-            ['/tasks.md', 'Tasks'],
+            {
+                title: 'Code',
+                collapsable: false,
+                children: [
+                    ['/tasks.md', 'Major Tasks'],
+                    ['/stretch.md', 'Stretch Goals'],
+                ]
+            },
             ['/contributing.md', 'Contributing'],
             ['/donate.md', 'Donate'],
         ],
