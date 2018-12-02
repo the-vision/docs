@@ -26,6 +26,7 @@ module.exports = {
                     ['/stretch.md', 'Stretch Goals'],
                 ]
             },
+            ['/progress.md', 'Progress'],
             ['/contributing.md', 'Contributing'],
             ['/donate.md', 'Donate'],
         ],
