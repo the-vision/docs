@@ -1,5 +1,5 @@
 # Progress
 
 - [DONE] Telegram: Create Bot
-- [DOING] Telegram: Integrate First Module
-- [TODO] Telegram: Publish on Store
+- [DOING] Telegram: Add Modules
+- [TODO] Telegram: Get User Feedback
