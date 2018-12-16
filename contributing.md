@@ -5,7 +5,7 @@
 1. Make a note of what all you like / dislike.
 1. Post the feedback to `#messenger-feedback` channel.
 1. We'll decide the task you can start with, and off you go!
-1. ...
+1. When you're working on something, let everyone know by either creating an issue or commenting on an existing one so that work is not duplicated. 😇
 1. Submit a Pull Request. 🎉
 
 P.S. Here's our GitHub organization invite link: [https://the-vision-org-invite.herokuapp.com](https://the-vision-org-invite.herokuapp.com)
