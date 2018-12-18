@@ -5,6 +5,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Community', link: 'https://discord.gg/MsZ9N9n' },
+            { text: 'Contributing', link: '/contributing' },
         ],
         sidebar: [
             ['/', 'Introduction'],
