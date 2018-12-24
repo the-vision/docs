@@ -2,7 +2,7 @@
 
 * [jarvis-core](https://github.com/the-vision/jarvis-core)
 * jarvis-messenger
-* jarvis-discord
+* [jarvis-discord](https://github.com/the-vision/jarvis-discord)
 * [jarvis-slack](https://github.com/the-vision/jarvis-slack)
 * [jarvis-telegram](https://github.com/the-vision/jarvis-telegram)
 * [module-motivation](https://github.com/the-vision/module-motivation)
