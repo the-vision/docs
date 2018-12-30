@@ -5,14 +5,14 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Community', link: 'https://discord.gg/MsZ9N9n' },
-            { text: 'Contributing', link: '/contributing' },
+            { text: 'Contributing 👨‍💻', link: '/contributing' },
         ],
         sidebar: [
-            ['/', 'Introduction'],
-            ['/history.md', 'History'],
-            ['/tenets.md', 'Tenets'],
+            ['/', 'Introduction 👋'],
+            ['/history.md', 'History ⏮️'],
+            ['/tenets.md', 'Tenets ☯️'],
             {
-                title: 'Design',
+                title: 'Design 🎨',
                 collapsable: false,
                 children: [
                     ['/structure.md', 'Package Structure'],
@@ -20,16 +20,16 @@ module.exports = {
                 ]
             },
             {
-                title: 'Code',
+                title: 'Code ‍🤖',
                 collapsable: false,
                 children: [
                     ['/tasks.md', 'Major Tasks'],
                     ['/stretch.md', 'Stretch Goals'],
                 ]
             },
-            ['/progress.md', 'Progress'],
-            ['/contributing.md', 'Contributing'],
-            ['/donate.md', 'Donate'],
+            ['/progress.md', 'Progress 🏗️'],
+            ['/contributing.md', 'Contributing 👨‍💻'],
+            ['/donate.md', 'Donate 😇'],
         ],
         lastUpdated: 'Last Updated',
         repo: 'the-vision/docs',
