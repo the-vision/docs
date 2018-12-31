@@ -15,16 +15,16 @@ module.exports = {
                 title: 'Design 🎨',
                 collapsable: false,
                 children: [
-                    ['/structure.md', 'Package Structure'],
-                    ['/stack.md', 'Tech Stack'],
+                    ['/structure.md', 'Package Structure 📦'],
+                    ['/stack.md', 'Tech Stack 🔥'],
                 ]
             },
             {
                 title: 'Code ‍🤖',
                 collapsable: false,
                 children: [
-                    ['/tasks.md', 'Major Tasks'],
-                    ['/stretch.md', 'Stretch Goals'],
+                    ['/tasks.md', 'Major Tasks 🏃‍♂️'],
+                    ['/stretch.md', 'Stretch Goals 🏋️‍♂️'],
                 ]
             },
             ['/progress.md', 'Progress 🏗️'],
