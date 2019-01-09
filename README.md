@@ -17,7 +17,7 @@ I created JARVIS with two goals in mind:
 
 # Vision's Vision (see what I did there?)
 
-1. Get 100 people started with open-source in 2019!
+1. Get [100 people](progress.md) started with open-source in 2019!
 1. Build a community to scale this.
 
 If you're willing to help even one person in his / her first Pull Request, reach out to me via [Twitter](https://twitter.com/SwapAgarwal). All the help is appreciated! 🙌
