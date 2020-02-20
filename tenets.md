@@ -11,7 +11,6 @@
 * Document all the things!
 * Iterate based on data (analytics).
   * Add features based on community requests.
-  * Have an easy way for users to provide feedback.
   * Modify features based on feedback.
 * Have an easy way for users to provide feedback.
 * Good Test Coverage
